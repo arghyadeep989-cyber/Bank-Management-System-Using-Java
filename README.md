@@ -6,3 +6,4 @@ indirectly. And of course, it encourages management committee in taking some nee
 Now a day’s, managing a bank is tedious job up to certain limit. So software that reduces the work is essential. Also, today’s world is a genuine computer world and is getting faster and faster day-by-day. Thus, considering above necessities, the software for bank management has become necessary which would be useful in managing the bank more efficiently.
 All transactions are carried out online by transferring from accounts in the same Bank or international bank. The software is meant to overcome the drawbacks of the manual system.
 
+
